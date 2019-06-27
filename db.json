@@ -29,26 +29,6 @@
 {"id":27,"nama":"Delly","alamat":"58325 Prairie Rose Pass","jenis_kelamin":"Female","jabatan":"Marketing"},
 {"id":28,"nama":"Jordain","alamat":"39681 Morningstar Court","jenis_kelamin":"Female","jabatan":"Marketing"},
 {"id":29,"nama":"Gabby","alamat":"0 Fieldstone Terrace","jenis_kelamin":"Male","jabatan":"Legal"},
-{"id":30,"nama":"Sloan","alamat":"04790 Eliot Road","jenis_kelamin":"Male","jabatan":"Product Management"},
-{"id":31,"nama":"Myrwyn","alamat":"2 Maple Wood Drive","jenis_kelamin":"Male","jabatan":"Support"},
-{"id":32,"nama":"Haleigh","alamat":"3343 Meadow Valley Circle","jenis_kelamin":"Female","jabatan":"Product Management"},
-{"id":33,"nama":"Fancie","alamat":"97 Dapin Lane","jenis_kelamin":"Female","jabatan":"Research and Development"},
-{"id":34,"nama":"Pincus","alamat":"9 Melvin Court","jenis_kelamin":"Male","jabatan":"Legal"},
-{"id":35,"nama":"Joice","alamat":"064 Barby Junction","jenis_kelamin":"Female","jabatan":"Services"},
-{"id":36,"nama":"Malachi","alamat":"4 Mallard Alley","jenis_kelamin":"Male","jabatan":"Engineering"},
-{"id":37,"nama":"Phillipp","alamat":"5955 Dovetail Place","jenis_kelamin":"Male","jabatan":"Training"},
-{"id":38,"nama":"Cris","alamat":"1 Weeping Birch Park","jenis_kelamin":"Male","jabatan":"Engineering"},
-{"id":39,"nama":"Weidar","alamat":"249 Katie Way","jenis_kelamin":"Male","jabatan":"Product Management"},
-{"id":40,"nama":"Hugo","alamat":"74 Elmside Alley","jenis_kelamin":"Male","jabatan":"Legal"},
-{"id":41,"nama":"Tanitansy","alamat":"4164 Sugar Hill","jenis_kelamin":"Female","jabatan":"Services"},
-{"id":42,"nama":"Fabian","alamat":"0085 Trailsway Place","jenis_kelamin":"Male","jabatan":"Engineering"},
-{"id":43,"nama":"Randy","alamat":"353 Lyons Hill","jenis_kelamin":"Female","jabatan":"Legal"},
-{"id":44,"nama":"Jerad","alamat":"1576 Meadow Valley Crossing","jenis_kelamin":"Male","jabatan":"Product Management"},
-{"id":45,"nama":"Cassie","alamat":"66 Gerald Alley","jenis_kelamin":"Male","jabatan":"Human Resources"},
-{"id":46,"nama":"Mattie","alamat":"60007 Donald Alley","jenis_kelamin":"Female","jabatan":"Product Management"},
-{"id":47,"nama":"Brittne","alamat":"998 Talmadge Park","jenis_kelamin":"Female","jabatan":"Business Development"},
-{"id":48,"nama":"Ingaborg","alamat":"30219 Pleasure Lane","jenis_kelamin":"Female","jabatan":"Business Development"},
-{"id":49,"nama":"Reginauld","alamat":"84 Jay Terrace","jenis_kelamin":"Male","jabatan":"Marketing"},
-{"id":50,"nama":"Bo","alamat":"27280 La Follette Center","jenis_kelamin":"Male","jabatan":"Research and Development"}
+{"id":30,"nama":"Sloan","alamat":"04790 Eliot Road","jenis_kelamin":"Male","jabatan":"Product Management"}
 ]
 }
