@@ -3,31 +3,31 @@
 		[{
 			"NoID": 1,
       "Nama": "Barat",
-      "Actions": "<a onClick={this.Delete.bind(this,1)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 2,
       "Nama": "Timur",
-      "Actions": "<a onClick={this.Delete.bind(this,3)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 3,
       "Nama": "Tengah",
-      "Actions": "<a onClick={this.Delete.bind(this,3)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 4,
       "Nama": "Bali",
-      "Actions": "<a onClick={this.Delete.bind(this,4)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 5,
       "Nama": "PPNBM 20%",
-      "Actions": "<a onClick={this.Delete.bind(this,5)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 6,
       "Nama": "yuhu",
-      "Actions": "<a onClick={this.Delete.bind(this,6)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 7,
       "Nama": "Draft",
-      "Actions": "<a onClick={this.Delete.bind(this,7)}><i className='fa icon-trash '></i></a>"
+      "Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}]
 	],
 	"recordset": [{
