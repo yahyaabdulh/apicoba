@@ -1,34 +1,57 @@
 {
-"user":[
-{"id":1,"nama":"Shae","alamat":"42237 Caliangt Pass","jenis_kelamin":"Male","jabatan":"Legal"},
-{"id":2,"nama":"Cyrus","alamat":"1148 Maple Wood Center","jenis_kelamin":"Male","jabatan":"Accounting"},
-{"id":3,"nama":"Effie","alamat":"438 Hollow Ridge Way","jenis_kelamin":"Female","jabatan":"Support"},
-{"id":4,"nama":"Pinchas","alamat":"2886 Blackbird Trail","jenis_kelamin":"Male","jabatan":"Services"},
-{"id":5,"nama":"Inger","alamat":"1 Myrtle Street","jenis_kelamin":"Female","jabatan":"Engineering"},
-{"id":6,"nama":"Dolores","alamat":"1 Shopko Plaza","jenis_kelamin":"Female","jabatan":"Sales"},
-{"id":7,"nama":"Chandler","alamat":"86 Fallview Hill","jenis_kelamin":"Male","jabatan":"Training"},
-{"id":8,"nama":"Boyd","alamat":"46 Truax Center","jenis_kelamin":"Male","jabatan":"Engineering"},
-{"id":9,"nama":"Gaylor","alamat":"1932 Elmside Avenue","jenis_kelamin":"Male","jabatan":"Legal"},
-{"id":10,"nama":"Maybelle","alamat":"1166 Eagle Crest Alley","jenis_kelamin":"Female","jabatan":"Marketing"},
-{"id":11,"nama":"Bancroft","alamat":"2 Warrior Point","jenis_kelamin":"Male","jabatan":"Business Development"},
-{"id":12,"nama":"Adelind","alamat":"42 Hermina Court","jenis_kelamin":"Female","jabatan":"Training"},
-{"id":13,"nama":"Issiah","alamat":"73 Blue Bill Park Pass","jenis_kelamin":"Male","jabatan":"Business Development"},
-{"id":14,"nama":"Urban","alamat":"94 Roxbury Alley","jenis_kelamin":"Male","jabatan":"Accounting"},
-{"id":15,"nama":"Lorelle","alamat":"2 Hintze Terrace","jenis_kelamin":"Female","jabatan":"Accounting"},
-{"id":16,"nama":"Goddart","alamat":"34403 Mandrake Trail","jenis_kelamin":"Male","jabatan":"Marketing"},
-{"id":17,"nama":"Myrle","alamat":"200 Dottie Way","jenis_kelamin":"Female","jabatan":"Sales"},
-{"id":18,"nama":"Melosa","alamat":"0620 Shasta Point","jenis_kelamin":"Female","jabatan":"Training"},
-{"id":19,"nama":"Orlan","alamat":"5396 Village Green Drive","jenis_kelamin":"Male","jabatan":"Support"},
-{"id":20,"nama":"Tabitha","alamat":"3 Helena Park","jenis_kelamin":"Female","jabatan":"Accounting"},
-{"id":21,"nama":"Ruthe","alamat":"939 Pond Pass","jenis_kelamin":"Female","jabatan":"Marketing"},
-{"id":22,"nama":"Gilemette","alamat":"28 Sunnyside Junction","jenis_kelamin":"Female","jabatan":"Human Resources"},
-{"id":23,"nama":"Revkah","alamat":"9869 Dexter Point","jenis_kelamin":"Female","jabatan":"Product Management"},
-{"id":24,"nama":"Barnabe","alamat":"19233 Talisman Point","jenis_kelamin":"Male","jabatan":"Research and Development"},
-{"id":25,"nama":"Frannie","alamat":"69822 7th Lane","jenis_kelamin":"Male","jabatan":"Research and Development"},
-{"id":26,"nama":"Avrom","alamat":"1238 Cottonwood Crossing","jenis_kelamin":"Male","jabatan":"Research and Development"},
-{"id":27,"nama":"Delly","alamat":"58325 Prairie Rose Pass","jenis_kelamin":"Female","jabatan":"Marketing"},
-{"id":28,"nama":"Jordain","alamat":"39681 Morningstar Court","jenis_kelamin":"Female","jabatan":"Marketing"},
-{"id":29,"nama":"Gabby","alamat":"0 Fieldstone Terrace","jenis_kelamin":"Male","jabatan":"Legal"},
-{"id":30,"nama":"Sloan","alamat":"04790 Eliot Road","jenis_kelamin":"Male","jabatan":"Product Management"}
-]
+	"recordsets": [
+		[{
+			"NoID": 1,
+      "Nama": "Barat",
+      "Actions": "<a onClick={this.Delete.bind(this,1)}><i className='fa icon-trash '></i></a>"
+		}, {
+			"NoID": 2,
+      "Nama": "Timur",
+      "Actions": "<a onClick={this.Delete.bind(this,3)}><i className='fa icon-trash '></i></a>"
+		}, {
+			"NoID": 3,
+      "Nama": "Tengah",
+      "Actions": "<a onClick={this.Delete.bind(this,3)}><i className='fa icon-trash '></i></a>"
+		}, {
+			"NoID": 4,
+      "Nama": "Bali",
+      "Actions": "<a onClick={this.Delete.bind(this,4)}><i className='fa icon-trash '></i></a>"
+		}, {
+			"NoID": 5,
+      "Nama": "PPNBM 20%",
+      "Actions": "<a onClick={this.Delete.bind(this,5)}><i className='fa icon-trash '></i></a>"
+		}, {
+			"NoID": 6,
+      "Nama": "yuhu",
+      "Actions": "<a onClick={this.Delete.bind(this,6)}><i className='fa icon-trash '></i></a>"
+		}, {
+			"NoID": 7,
+      "Nama": "Draft",
+      "Actions": "<a onClick={this.Delete.bind(this,7)}><i className='fa icon-trash '></i></a>"
+		}]
+	],
+	"recordset": [{
+		"NoID": 1,
+		"Nama": "Barat"
+	}, {
+		"NoID": 2,
+		"Nama": "Timur "
+	}, {
+		"NoID": 3,
+		"Nama": "Tengah"
+	}, {
+		"NoID": 4,
+		"Nama": "Bali"
+	}, {
+		"NoID": 5,
+		"Nama": "PPNBM 20%"
+	}, {
+		"NoID": 6,
+		"Nama": "yuhu"
+	}, {
+		"NoID": 7,
+		"Nama": "Draft"
+	}],
+	"output": {},
+	"rowsAffected": [7]
 }
