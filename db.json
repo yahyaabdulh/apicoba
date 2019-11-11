@@ -53,7 +53,7 @@
 	}, {
 		"NoID": 6,
 		"Nama": "yuhu",
-		"Actions": "<button onClick={this.Delete.bind(this,6)}>Hapus</button>"
+		"Actions": "<button onClick='alert('tes');'>Hapus</button>"
 	}, {
 		"NoID": 7,
 		"Nama": "Draft",
