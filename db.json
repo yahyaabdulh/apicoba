@@ -32,25 +32,32 @@
 	],
 	"recordset": [{
 		"NoID": 1,
-		"Nama": "Barat"
+		"Nama": "Barat",
+		"Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}, {
 		"NoID": 2,
-		"Nama": "Timur "
+		"Nama": "Timur ",
+		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}, {
 		"NoID": 3,
-		"Nama": "Tengah"
+		"Nama": "Tengah",
+		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}, {
 		"NoID": 4,
-		"Nama": "Bali"
+		"Nama": "Bali",
+		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}, {
 		"NoID": 5,
-		"Nama": "PPNBM 20%"
+		"Nama": "PPNBM 20%",
+		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}, {
 		"NoID": 6,
-		"Nama": "yuhu"
+		"Nama": "yuhu",
+		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}, {
 		"NoID": 7,
-		"Nama": "Draft"
+		"Nama": "Draft",
+		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
 	}],
 	"output": {},
 	"rowsAffected": [7]
