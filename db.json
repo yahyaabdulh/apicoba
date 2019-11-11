@@ -2,64 +2,63 @@
 	"recordsets": [
 		[{
 			"NoID": 1,
-      "Nama": "Barat",
-      "Actions": "<a ><i className='fa icon-trash '></i></a>"
+			"Nama": "Barat",
+			"Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 2,
-      "Nama": "Timur",
-      "Actions": "<a ><i className='fa icon-trash '></i></a>"
+			"Nama": "Timur",
+			"Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 3,
-      "Nama": "Tengah",
-      "Actions": "<a ><i className='fa icon-trash '></i></a>"
+			"Nama": "Tengah",
+			"Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 4,
-      "Nama": "Bali",
-      "Actions": "<a ><i className='fa icon-trash '></i></a>"
+			"Nama": "Bali",
+			"Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 5,
-      "Nama": "PPNBM 20%",
-      "Actions": "<a ><i className='fa icon-trash '></i></a>"
+			"Nama": "PPNBM 20%",
+			"Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 6,
-      "Nama": "yuhu",
-      "Actions": "<a><i className='fa icon-trash '></i></a>"
+			"Nama": "yuhu",
+			"Actions": "<a><i className='fa icon-trash '></i></a>"
 		}, {
 			"NoID": 7,
-      "Nama": "Draft",
-      "Actions": "<a ><i className='fa icon-trash '></i></a>"
+			"Nama": "Draft",
+			"Actions": "<a ><i className='fa icon-trash '></i></a>"
 		}]
 	],
 	"recordset": [{
 		"NoID": 1,
 		"Nama": "Barat",
-		"Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,1)}>Hapus</button>"
 	}, {
 		"NoID": 2,
 		"Nama": "Timur ",
-		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,2)}>Hapus</button>"
 	}, {
 		"NoID": 3,
 		"Nama": "Tengah",
-		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,3)}>Hapus</button>"
 	}, {
 		"NoID": 4,
 		"Nama": "Bali",
-		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,4)}>Hapus</button>"
 	}, {
 		"NoID": 5,
 		"Nama": "PPNBM 20%",
-		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,5)}>Hapus</button>"
 	}, {
 		"NoID": 6,
 		"Nama": "yuhu",
-		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,6)}>Hapus</button>"
 	}, {
 		"NoID": 7,
 		"Nama": "Draft",
-		 "Actions": "<a ><i className='fa icon-trash '></i></a>"
+		"Actions": "<button onClick={this.Delete.bind(this,7)}>Hapus</button>"
 	}],
 	"output": {},
 	"rowsAffected": [7]
 }
-
